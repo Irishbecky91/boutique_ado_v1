@@ -1,5 +1,5 @@
 """
-veiws.py defines all views
+Home views
 """
 
 from django.shortcuts import render
