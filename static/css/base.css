@@ -69,6 +69,11 @@ body {
     z-index: -1;
 }
 
+a.category-badge > span.badge:hover {
+    background-color: #212529 !important;
+    color: #FFF !important;
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
