@@ -120,7 +120,7 @@ a.category-badge > span.badge:hover {
     }
 
     .header-container {
-        padding-top: 164px;
+        padding-top: 164px !important;
     }
 }
 
