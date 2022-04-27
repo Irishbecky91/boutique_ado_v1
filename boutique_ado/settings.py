@@ -111,7 +111,7 @@ ACCOUNT_EMAIL_VERIFICATION = 'mandatory'  # Email must be validated.
 ACCOUNT_SIGNUP_EMAIL_ENTER_TWICE = True  # Email must be entered twice on registration to prevent typos.
 ACCOUNT_USERNAME_MIN_LENGTH = 4  # Username must be 4 or more characters.
 LOGIN_URL = '/accounts/login/'  # Directs to login page.
-LOGIN_REDIRECT_URL = '/success'  # Redirects after logging in.
+LOGIN_REDIRECT_URL = '/'  # Redirects after logging in.
 
 WSGI_APPLICATION = 'boutique_ado.wsgi.application'
 
