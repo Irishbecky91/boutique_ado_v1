@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://irishbecky-boutique-ado.herokuapp.com/sitemap.xml
